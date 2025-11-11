@@ -23,8 +23,8 @@ It supports adding, viewing, searching, modifying, and deleting student details 
 | Name | VARCHAR | Student name |
 | Class | VARCHAR | Academic class |
 | DOB | VARCHAR | Date of birth |
-| Father Name | VARCHAR | — |
-| Mother Name | VARCHAR | — |
+| Father Name | VARCHAR | Father's Name |
+| Mother Name | VARCHAR | Mother's Name |
 | Phone | INT | 10-digit mobile number |
 | Aadhaar | INT | 12-digit ID number |
 | Email | VARCHAR | Email address |
